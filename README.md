@@ -1,8 +1,9 @@
-# React + Vite
+# To Do Webapp 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live demo = https://to-do-webapp-reactjs.vercel.app/
 
-Currently, two official plugins are available:
+#8 react practice project 
+using the concept of context API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![AaadityaG_To-do-webapp - Google Chrome 20-12-2023 09_11_25 PM](https://github.com/AaadityaG/To-do-webapp/assets/114663382/b74f1763-ebf6-464f-8855-dd3f82813639)
